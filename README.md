@@ -1,5 +1,5 @@
 
-#**Github**
+#Github
 ![icon](https://raw.githubusercontent.com/seasonfif/github/master/icon/icon_192.png)
 
 Github是专为github精心打造的一款Android客户端，该客户端功能强大，包含常用的github浏览以及部分操作功能；界面绚丽，适配Material Design；操作简便，可以说是为githuber们量身而作的口袋神器！
@@ -7,7 +7,7 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
 ----------
 
 
-##**效果图**
+##效果图
 ![main_nav](https://raw.githubusercontent.com/seasonfif/github/master/preview/day_theme/main_nav.png)
   
 *功能Tab选择界面*
@@ -22,7 +22,7 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
 ![main_exlpore_n](https://raw.githubusercontent.com/seasonfif/github/master/preview/night_theme/main_exlpore_n.png)
   
 怎么样！看到这里你有没有想要上手试一试他的冲动呢？别着急，我们接着往下看。
-##**功能介绍**
+##功能介绍
 常用的github浏览功能以及部分操作功能，包括:
 
 - [x] 启动的默认Tab支持自定义（Settings里面设置）
@@ -62,23 +62,23 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
 
 看到这里相信你已经迫不及待想拥有它了！这就为客官奉上下载地址。
 
-##**下载链接**
+##下载链接
 点击以下链接即可下载安装，或者在其对应的应用商店搜索`Github`下载安装
 > * [Git Download](https://raw.githubusercontent.com/Jeffmen/Git.NB/master/apk/app-release.apk)
 > * [百度应用商店]()
 > * [腾讯应用宝]()
 > * [360应用商店]()
 
-##**建议与bug反馈**
+##建议与bug反馈
 如果您对软件有什么建议或是在使用过程中发现bug可以通过以下途径反馈：
 > * 软件About的`Feedback`途径
 > * 项目主页中新建[issue](https://github.com/seasonfif/github/issues/new)
 > * 新浪微博[@seasonfif](http://weibo.com/seasonfif)
 > * 邮件到seasonfif@gmail.com
 
-热切希望与诸位的交流。
+期待与诸位的交流。
 
-##**鸣谢**
+##鸣谢
 项目使用了优秀的第三方开源库，在此对以下作品表示致谢。
 
  1. [Retrofit](https://github.com/square/retrofit)  Type-safe HTTP client for Android and Java by Square, Inc.
@@ -93,8 +93,9 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
  
 再次感谢！
 
-##**商务合作**
+##商务合作
 邮件seasonfif@gmail.com
+诚挚希望与您合作
 
 
 ----------
