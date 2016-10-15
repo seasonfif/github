@@ -25,19 +25,19 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
 ## **功能介绍**
 常用的github浏览功能以及部分操作功能，包括:
 
-- [x] 启动的默认Tab支持自定义（Settings里面设置）
-- [x] Explore，支持仓库和用户的搜索；支持个人喜好编程语言的设定（Settings里面设置）
-- [x] Event，支持动态浏览以及相关用户和仓库的快速链接
-- [x] Repository，浏览名下仓库（仓库详情页），支持预览详情，fork、star、watch和代码等资源（支持分支选择）的浏览以及删除仓库
-- [x] Follow， 支持查看followings和followers；个人详情页里面还支持follow与unfollow
-- [x] 个人详情页，以下单独介绍
-- [x] 仓库详情页，以下单独介绍
-- [x] Starred，浏览名下已经star的仓库
-- [x] Issues，浏览相关的issues，支持新建issue，查看issue详情
-- [x] Issues详情页支持增加评论以及评论的删除
-- [x] Gists，浏览名下的gists
-- [x] Settings，设置启动Tab、设置喜好语言、切换夜间模式、分享、清除缓存等
-- [x] About， 软件相关信息、项目的github主页、商业合作、用户反馈意见软件更新，支持全量更新和差量更新
+ 1. 启动的默认Tab支持自定义（Settings里面设置）
+ 2. Explore，支持仓库和用户的搜索；支持个人喜好编程语言的设定（Settings里面设置）
+ 3. Event，支持动态浏览以及相关用户和仓库的快速链接
+ 4. Repository，浏览名下仓库（仓库详情页），支持预览详情，fork、star、watch和代码等资源（支持分支选择）的浏览以及删除仓库
+ 5. Follow， 支持查看followings和followers；个人详情页里面还支持follow与unfollow
+ 6. 个人详情页，以下单独介绍
+ 7. 仓库详情页，以下单独介绍
+ 8. Starred，浏览名下已经star的仓库
+ 9. Issues，浏览相关的issues，支持新建issue，查看issue详情
+ 10. Issues详情页支持增加评论以及评论的删除
+ 11. Gists，浏览名下的gists
+ 12. Settings，设置启动Tab、设置喜好语言、切换夜间模式、分享、清除缓存等
+ 13. About， 软件相关信息、项目的github主页、商业合作、用户反馈意见软件更新，支持全量更新和差量更新
 
 ### 个人详情页
 承载用户所有信息的展示以及操作平台
