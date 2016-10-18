@@ -35,7 +35,7 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
  8. Starred，浏览名下已经star的仓库
  9. Issues，浏览相关的issues，支持新建issue，查看issue详情
  10. Issues详情页支持增加评论以及评论的删除
- 11. Gists，浏览名下的gists
+ 11. Gists，浏览名下的gists，支持gists删除、评论，以及查看gists文件等
  12. Settings，设置启动Tab、设置喜好语言、切换夜间模式、分享、清除缓存等
  13. About， 软件相关信息、项目的github主页、商业合作、用户反馈意见软件更新，支持全量更新和差量更新
  14. 源代码里面的所有文件均支持缓存，第二次加载不耗费流量，Setting里面有删除缓存以节省存储空间
