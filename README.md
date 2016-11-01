@@ -67,6 +67,8 @@ Github是专为github精心打造的一款Android客户端，该客户端功能�
 点击以下链接即可下载安装，或者在其对应的应用商店搜索`github`下载安装
 > * [Git Download](https://raw.githubusercontent.com/seasonfif/github/master/apk/github_release.apk)
 > * [百度应用商店](http://shouji.baidu.com/software/10131158.html)
+> * [腾讯应用商店](http://sj.qq.com/myapp/detail.htm?apkName=com.seasonfif.github)
+> * [360应用商店](http://zhushou.360.cn/detail/index/soft_id/3522595?recrefer=SE_D_github)
 
 ## **建议与bug反馈**
 如果您对软件有什么建议或是在使用过程中发现bug可以通过以下途径反馈：
